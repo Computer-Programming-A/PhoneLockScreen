@@ -1,7 +1,8 @@
 
-![](OwenScreenLock.gif)  
+
 How to make your program into a lock screen on your iPhone
 ===============================================================================================
+![](OwenScreenLock.gif)  
 1. change create canvas(400,400) to something with a longer y value ( I used 400,900) so that it fits your phone length
  
 2. change the the if (yPosition X >400) to whatever your Y value for create canvas is 
