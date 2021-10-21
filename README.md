@@ -12,7 +12,7 @@ How to make your program into a lock screen on your iPhone
 
 4. screen record about ten seconds of the program running using the iOS screen record or other program 
 
-5. download an app that changes videos into Live Photos- this is the one I used https://apps.apple.com/us/app/videotolive-live-photo-maker/id136143238
+5. download an app that changes videos into Live Photos- this one for example https://apps.apple.com/us/app/videotolive-live-photo-maker/id136143238
 
 6. use the app to convert your video of the program to a Live Photo 
 
