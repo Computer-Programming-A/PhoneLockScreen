@@ -1,4 +1,4 @@
-![](OwenScreenLock.gif =40x90)  
+<img src="OwenScreenLock.gif" width="200"/>
 
 How to make your program into a lock screen on your iPhone
 ===============================================================================================
